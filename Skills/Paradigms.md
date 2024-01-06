@@ -1,66 +1,66 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
-  - Generic programming
-  - Concurrent computing
-  - Asyncronous programming
-  - Parallel programming
-  - Reactive programming
-  - FRP (Functional-reactive)
-  - Automata-based programming
-  - Domain-specific languages
-  - Multi-paradigm programming
-  - Metaprogramming
-  - Actor model
+  - Procedural programming: 🎓 known
+  - Imperative programming: 🎓 known
+  - Structured programming:🎓 known
+  - Non-structured programming:🎓 known
+  - Functional programming:🎓 known
+  - Prototype-based programming:🎓 known
+  - Object-oriented programming: 🎓 known
+  - Object-based programming: 🎓 known
+  - Generic programming:🎓 known
+  - Concurrent computing:🎓 known
+  - Asyncronous programming:🎓 known
+  - Parallel programming:🎓 known
+  - Reactive programming:🎓 known
+  - FRP (Functional-reactive):🎓 known
+  - Automata-based programming:🎓 known
+  - Domain-specific languages:🎓 known
+  - Multi-paradigm programming:🎓 known
+  - Metaprogramming:🎓 known
+  - Actor model:🎓 known
 - OOP basics
-  - constructor
-  - new
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
-  - Object form
-  - instance
-  - Introspection
-  - Reflection
+  - constructor:🖐️ used
+  - new:🖐️ used
+  - Static method:🖐️ used
+  - Method:🖐️ used
+  - Async method:🖐️ used
+  - Getters, Setters:🖐️ used
+  - Public fields:🎓 known
+  - Private fields:🎓 known
+  - Field declarations:🎓 known
+  - Inheritance:🎓 known
+  - Parent class:🖐️ used
+  - Polymorphism:🎓 known
+  - Abstract class:🎓 known
+  - Interface:🎓 known
+  - Encapsulation:🎓 known
+  - Hidden class:🖐️ used
+  - Object form:🖐️ used
+  - instance:🎓 known
+  - Introspection:🎓 known
+  - Reflection:🎓 known
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
-  - Adapter
-  - Observer
-  - Strategy
-  - Facade
-  - Proxy
-  - Chain of Responsibility
-  - Command
-  - Iterator
-  - State
-  - Bridge
-  - Builder
-  - Prototype
-  - Composite
-  - Decorator
-  - Flyweight
-  - Mediator
-  - Memento
-  - Template Method
-  - Visitor
+  - Singleton:🎓 known
+  - Factory Method:🎓 known
+  - Abstract Factory:🎓 known
+  - Adapter:🎓 known
+  - Observer:🎓 known
+  - Strategy:🎓 known
+  - Facade:👂 heard
+  - Proxy:👂 heard
+  - Chain of Responsibility:🖐️ used
+  - Command:👂 heard
+  - Iterator:👂 heard
+  - State:👂 heard
+  - Bridge:👂 heard
+  - Builder:👂 heard
+  - Prototype: 👂 heard
+  - Composite:👂 heard
+  - Decorator:👂 heard
+  - Flyweight:👂 heard
+  - Mediator:👂 heard
+  - Memento:👂 heard
+  - Template Method:👂 heard
+  - Visitor:👂 heard
